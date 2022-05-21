@@ -34,3 +34,4 @@ cd SamplingAndReconstructionOfSignals
 ```
 
 ## License
+[MIT License](LICENSE)
