@@ -1,12 +1,14 @@
 # Sampling And Reconstruction of Signals
 Impact of phase on sampling and reconstruction of signals.
 
-## Table of contents
-1. Introduction
-2. Technologies
-3. Project status
-4. Installation
-5. License
+- [Sampling And Reconstruction of Signals](#sampling-and-reconstruction-of-signals)
+  - [Introduction](#introduction)
+    - [Course information](#course-information)
+  - [Technologies](#technologies)
+  - [Project status](#project-status)
+  - [Installation](#installation)
+    - [Get repository](#get-repository)
+  - [License](#license)
 
 ## Introduction
 1. Generate discrete-time sequences from analog signals for various phase angles.
