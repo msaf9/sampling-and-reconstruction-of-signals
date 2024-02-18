@@ -31,8 +31,8 @@ Impact of phase on sampling and reconstruction of signals.
 ## Installation
 ### Get repository
 ```git
-git https://github.com/msaf9/SamplingAndReconstructionOfSignals.git
-cd SamplingAndReconstructionOfSignals
+git https://github.com/msaf9/sampling-and-reconstruction-of-signals.git
+cd sampling-and-reconstruction-of-signals
 ```
 
 ## License
