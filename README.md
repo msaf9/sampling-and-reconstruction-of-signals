@@ -1,14 +1,15 @@
-# Sampling And Reconstruction of Signals
+<h1>Sampling And Reconstruction of Signals</h1> 
 Impact of phase on sampling and reconstruction of signals.
 
-- [Sampling And Reconstruction of Signals](#sampling-and-reconstruction-of-signals)
-  - [Introduction](#introduction)
-    - [Course information](#course-information)
-  - [Technologies](#technologies)
-  - [Project status](#project-status)
-  - [Installation](#installation)
-    - [Get repository](#get-repository)
-  - [License](#license)
+<h2>Table of contents</h2>
+
+- [Introduction](#introduction)
+  - [Course information](#course-information)
+- [Programming Language](#programming-language)
+- [Project status](#project-status)
+- [Installation](#installation)
+  - [Get repository](#get-repository)
+- [License](#license)
 
 ## Introduction
 1. Generate discrete-time sequences from analog signals for various phase angles.
@@ -22,7 +23,7 @@ Impact of phase on sampling and reconstruction of signals.
 - Course Credits: 4
 - Academic Year: 2016 - 17
 
-## Technologies
+## Programming Language
 - MatLab
 
 ## Project status
